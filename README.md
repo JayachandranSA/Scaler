@@ -1,0 +1,1 @@
+This is a practice session for MLops setup lecture
