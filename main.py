@@ -1,6 +1,7 @@
 #Dummy
 #This lines were updated in dummy branch and going to merge with main brach soon
 def quicksort():
+    def quicksort_mainbranch():
     if len(arr) <= 1:
         return arr
     pivot = arr[len(arr)//2]
