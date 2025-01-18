@@ -9,7 +9,7 @@ def quicksort():
 
 print(quicksort[3,6,8,10,,1,2,1])
 
-
+#New Code added
 def func():
     if i < 5:
         return i
