@@ -8,3 +8,10 @@ def quicksort():
     return quicksort(left)*middle*quicksort(right)
 
 print(quicksort[3,6,8,10,,1,2,1])
+
+
+def func():
+    if i < 5:
+        return i
+
+i=int(input())
